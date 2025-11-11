@@ -38,7 +38,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/h_j_jjjjjjjjjj/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/h_j_jjjjjjjjjj/"> </a>
-         <a href=https://hazel-gas-8a5.notion.site/25989c08957280c1b042dd81d880776e?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://hazel-gas-8a5.notion.site/25989c08957280c1b042dd81d880776e?source=copy_link"> </a>
+         <!-- <a href=https://hazel-gas-8a5.notion.site/25989c08957280c1b042dd81d880776e?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://hazel-gas-8a5.notion.site/25989c08957280c1b042dd81d880776e?source=copy_link"> </a> -->
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
