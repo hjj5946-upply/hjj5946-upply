@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=48&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B3D91,30:123A6D,60:0F9D58,100:A3E635&text=Welcome%20to%20my%20GitHub&fontColor=F8FAFC&fontSize=48&fontAlign=50&fontAlignY=50&animation=fadeIn" />
 
 <br><br>
 
@@ -11,10 +11,10 @@
 ## ✨ About Me
 
 - 경험과 데이터를 기반으로 문제를 해결하는 8년차 개발자입니다.
-- LLM과 협업 도구를 활용해 개발 생산성과 업무 효율을 높이는 방식에 관심이 있습니다.
+- LLM과 협업 도구를 활용해 개발 생산성과 업무 효율을 높이는 방식에 관심이 많습니다.
 - 개인 토이 프로젝트와 학습 내용을 GitHub에 꾸준히 기록하고 있습니다.
 - 제로베이스 서비스 구축부터 운영, 솔루션 개발 및 유지관리, 트래픽 관리 경험이 있습니다.
-- 이커머스 및 헬스케어 서비스 개발 경험을 보유하고 있습니다.
+- 이커머스 및 헬스케어 도메인에서의 개발 경험을 보유하고 있습니다.
 
 ---
 
@@ -22,28 +22,35 @@
 
 ### Backend / Server
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,fastapi,redis&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,fastapi,redis&theme=dark&perline=6" />
 </div>
 
----
+<br>
 
 ### Frontend / Mobile
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,flutter,dart&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,flutter,dart&theme=dark&perline=5" />
 </div>
 
----
+<br>
 
 ### Cloud / Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,supabase,mysql,postgres&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,supabase,mysql,postgres&theme=dark&perline=4" />
 </div>
 
----
+<br>
 
-### DevOps / Collaboration / Tools
+### DevOps / Message Queue
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,notion,rabbitmq,kafka,jenkins&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,jenkins&theme=dark&perline=3" />
+</div>
+
+<br>
+
+### Collaboration / Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,notion,slack&theme=dark&perline=4" />
 </div>
 
 ---
@@ -51,7 +58,7 @@
 ## 📚 Currently Studying
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,linux,aws,swift&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,linux,swift&theme=dark&perline=3" />
 </div>
 
 ---
@@ -70,7 +77,7 @@
 ## 🧩 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hjj5946-upply&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=7C83FD&point=2CA6A4&color=F8FAFC" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hjj5946-upply&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=22C55E&point=A3E635&color=E2E8F0" />
 </div>
 
 ---
@@ -87,6 +94,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:050816,25:1D4ED8,55:7C3AED,80:EC4899,100:22D3EE" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0B3D91,30:123A6D,60:0F9D58,100:A3E635" />
 
 </div>
