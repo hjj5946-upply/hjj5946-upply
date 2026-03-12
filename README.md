@@ -4,15 +4,6 @@
 
 <br><br>
 
-<h1 align="center">Java / Spring Boot & React</h1>
-
-<p align="center">
-Java / Spring Boot 기반 백엔드와<br>
-React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
-실습과 기록을 반복하면서<br>
-웹 개발 역량을 차근차근 넓혀가고 있습니다
-</p>
-
 </div>
 
 ---
@@ -30,34 +21,28 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 ### Backend / Server
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,redis,rabbitmq,kafka&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,fastapi,redis&theme=dark&perline=7" />
 </div>
 
 ---
 
 ### Frontend / Mobile
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,flutter&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,flutter,dart&theme=dark&perline=6" />
 </div>
 
 ---
 
 ### Cloud / Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,supabase,mysql,postgres,mariadb&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,supabase,mysql,postgres&theme=dark&perline=6" />
 </div>
 
 ---
 
-### Collaboration / Tools
+### DevOps / Collaboration / Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,notion,slack&theme=dark&perline=6" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,rabbitmq,kafka,jenkins&theme=dark&perline=6" />
 </div>
 
 ---
