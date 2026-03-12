@@ -36,19 +36,23 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JSP-1565C0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Servlet-1E88E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-FBC02D?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </div>
 
-### Frontend
+### Mobile / Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,ts&theme=dark" />
 </div>
 
-### Database & Tools
+### Cloud / Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,notion,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,supabase&theme=dark" />
+</div>
+
+### Dev Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </div>
 
 <br>
