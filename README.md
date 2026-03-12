@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1020,30:1B2A49,65:5B4B8A,100:2CA6A4&text=Welcome%20to%20my%20GitHub&fontColor=F8FAFC&fontSize=48&fontAlign=50&fontAlignY=40&desc=Backend%20%7C%20Frontend%20%7C%20Portfolio&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=48&animation=fadeIn" />
 
 <br><br>
 
@@ -10,10 +10,11 @@
 
 ## ✨ About Me
 
-- 경험과 데이터를 기반하여 트렌디하게 작업을 진행하는 8년차 개발자입니다.
-- LLM 및 협업툴을 통한 효율적인 개발/업무 진행으로 
-- 개인적인 토이프로젝트 및 학습 내용을 GitHub에 꾸준히 기록하고 있습니다
-- 제로베이스 구축/운영부터 솔루션 구축/유지관리 및 트래픽관리와 이커머스/헬스케어
+- 경험과 데이터를 기반으로 문제를 해결하는 8년차 개발자입니다.
+- LLM과 협업 도구를 활용해 개발 생산성과 업무 효율을 높이는 방식에 관심이 있습니다.
+- 개인 토이 프로젝트와 학습 내용을 GitHub에 꾸준히 기록하고 있습니다.
+- 제로베이스 서비스 구축부터 운영, 솔루션 개발 및 유지관리, 트래픽 관리 경험이 있습니다.
+- 이커머스 및 헬스케어 서비스 개발 경험을 보유하고 있습니다.
 
 ---
 
@@ -50,22 +51,7 @@
 ## 📚 Currently Studying
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,linux,aws&theme=dark&perline=6" />
-</div>
-
----
-
-## 🚀 Career Focus
-
-<div align="center">
-
-| 분야 | 목표 |
-|---|---|
-| Backend | Java / Spring Boot 기반 웹 서비스 구현 역량 강화 |
-| Frontend | React 기반 UI 구현 및 컴포넌트 설계 능력 향상 |
-| Database | Oracle / MongoDB 활용 및 데이터 처리 역량 강화 |
-| Collaboration | GitHub 기반 프로젝트 기록 및 협업 습관 형성 |
-
+  <img src="https://skillicons.dev/icons?i=kubernetes,linux,aws,swift&theme=dark&perline=6" />
 </div>
 
 ---
