@@ -28,37 +28,30 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 ## 🛠 Tech Stack
 
-### Backend & Server
+### Backend / Server
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,redis,rabbitmq,kafka&theme=dark" />
 </div>
 
-<br>
+---
 
+### Frontend / Mobile
 <div align="center">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,flutter&theme=dark" />
 </div>
 
-### Mobile / Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,ts&theme=dark" />
-</div>
+---
 
 ### Cloud / Database
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,supabase&theme=dark" />
 </div>
 
+---
+
 ### Dev Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
 ---
