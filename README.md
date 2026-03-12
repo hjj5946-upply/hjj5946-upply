@@ -30,7 +30,7 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 ### Backend & Server
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,python&theme=dark" />
 </div>
 
 <br>
@@ -66,7 +66,7 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 ## 📚 Currently Studying
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,python&theme=dark" />
+  
 </div>
 
 <br>
