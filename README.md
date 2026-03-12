@@ -50,7 +50,7 @@
 
 ### Collaboration / Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,notion,slack&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion&theme=dark&perline=4" />
 </div>
 
 ---
