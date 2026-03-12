@@ -30,28 +30,34 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 
 ### Backend / Server
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,redis,rabbitmq,kafka&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,redis,rabbitmq,kafka&theme=dark&perline=7" />
 </div>
 
 ---
 
 ### Frontend / Mobile
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,flutter&theme=dark&perline=6" />
 </div>
 
 ---
 
 ### Cloud / Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,supabase,mysql,postgres,mariadb&theme=dark&perline=6" />
 </div>
 
 ---
 
-### Dev Tools
+### Collaboration / Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,slack&theme=dark&perline=6" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
 ---
@@ -59,15 +65,7 @@ React 기반 프론트엔드를 함께 학습하고 있습니다<br><br>
 ## 📚 Currently Studying
 
 <div align="center">
-  
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java%20%26%20Spring%20Boot-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Practice-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Database%20Study-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,linux,aws&theme=dark&perline=6" />
 </div>
 
 ---
