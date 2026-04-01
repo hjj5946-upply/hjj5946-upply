@@ -67,8 +67,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hjj5946-upply&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjj5946-upply&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=hjj5946-upply&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjj5946-upply&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 </div>
 
