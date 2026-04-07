@@ -23,7 +23,7 @@
 ### Backend / Server
 <div align="center">
   <!-- <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,fastapi,redis&theme=dark&perline=6" /> -->
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,redis&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,redis&theme=dark&perline=5" />
 </div>
 
 <br>
