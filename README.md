@@ -22,14 +22,16 @@
 
 ### Backend / Server
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,fastapi,redis&theme=dark&perline=6" />
+  <!-- <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,fastapi,redis&theme=dark&perline=6" /> -->
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,redis&theme=dark&perline=5" />
 </div>
 
 <br>
 
 ### Frontend / Mobile
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,flutter,dart&theme=dark&perline=5" />
+  <!-- <img src="https://skillicons.dev/icons?i=react,js,ts,flutter,dart&theme=dark&perline=5" /> -->
+  <img src="https://skillicons.dev/icons?i=react,ts,flutter,dart&theme=dark&perline=4" />
 </div>
 
 <br>
