@@ -29,7 +29,7 @@
 
 ### Frontend / Mobile
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter&theme=dark&perline2" />
+  <img src="https://skillicons.dev/icons?i=react,flutter&theme=dark&perline=2" />
 </div>
 
 <br>
