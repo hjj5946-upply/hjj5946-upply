@@ -23,7 +23,7 @@
 ### Backend / Server
 <div align="center">
   <!-- <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,fastapi,redis&theme=dark&perline=6" /> -->
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,redis&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,redis&theme=dark&perline=3" />
 </div>
 
 <br>
@@ -31,14 +31,15 @@
 ### Frontend / Mobile
 <div align="center">
   <!-- <img src="https://skillicons.dev/icons?i=react,js,ts,flutter,dart&theme=dark&perline=5" /> -->
-  <img src="https://skillicons.dev/icons?i=react,ts,flutter,dart&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,ts,flutter&theme=dark&perline3" />
 </div>
 
 <br>
 
 ### Cloud / Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,supabase,mysql,postgres&theme=dark&perline=4" />
+  <!-- <img src="https://skillicons.dev/icons?i=aws,supabase,mysql,postgres&theme=dark&perline=4" /> -->
+  <img src="https://skillicons.dev/icons?i=aws,supabase&theme=dark&perline=2" />
 </div>
 
 <br>
