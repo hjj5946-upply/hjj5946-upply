@@ -22,7 +22,7 @@
 
 ### Backend / Server
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,redis&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,redis,kafka&theme=dark&perline=6" />
 </div>
 
 <br>
@@ -43,7 +43,7 @@
 
 ### DevOps / Message Queue
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,jenkins&theme=dark&perline=2" />
+  <img src="https://skillicons.dev/icons?i=jenkins&theme=dark&perline=1" />
 </div>
 
 <br>
