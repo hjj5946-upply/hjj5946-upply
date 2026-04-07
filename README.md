@@ -10,11 +10,11 @@
 
 ## ✨ About Me
 
-- 경험과 데이터를 기반으로 문제를 해결하는 8년차 개발자입니다.
-- LLM과 협업 도구를 활용해 개발 생산성과 업무 효율을 높이는 방식에 관심이 많습니다.
-- 개인 토이 프로젝트와 학습 내용을 GitHub에 꾸준히 기록하고 있습니다.
-- 제로베이스 서비스 구축부터 운영, 솔루션 개발 및 유지관리, 트래픽 관리 경험이 있습니다.
-- 이커머스 및 헬스케어 도메인에서의 개발 경험을 보유하고 있습니다.
+- Spring, FastAPI 기반 API 서버 설계 및 운영 경험을 보유한 8년차 개발자입니다.
+- Redis, Kafka 등을 활용한 캐싱 및 비동기 처리로 성능 개선을 경험했습니다.
+- 서비스 초기 구축부터 운영, 트래픽 대응까지 전 과정에 참여했습니다.
+- 이커머스 도메인에서의 실무 경험이 있습니다.
+- LLM 및 협업 도구를 활용해 개발 생산성을 개선하는 방식에 관심이 있습니다.
 
 ---
 
@@ -22,38 +22,35 @@
 
 ### Backend / Server
 <div align="center">
-  <!-- <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,fastapi,redis&theme=dark&perline=6" /> -->
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,redis&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,redis&theme=dark&perline=5" />
 </div>
 
 <br>
 
 ### Frontend / Mobile
 <div align="center">
-  <!-- <img src="https://skillicons.dev/icons?i=react,js,ts,flutter,dart&theme=dark&perline=5" /> -->
-  <img src="https://skillicons.dev/icons?i=react,ts,flutter&theme=dark&perline3" />
+  <img src="https://skillicons.dev/icons?i=react,flutter&theme=dark&perline2" />
 </div>
 
 <br>
 
 ### Cloud / Database
 <div align="center">
-  <!-- <img src="https://skillicons.dev/icons?i=aws,supabase,mysql,postgres&theme=dark&perline=4" /> -->
-  <img src="https://skillicons.dev/icons?i=aws,supabase&theme=dark&perline=2" />
+  <img src="https://skillicons.dev/icons?i=aws,supabase,mysql,postgres&theme=dark&perline=4" />
 </div>
 
 <br>
 
 ### DevOps / Message Queue
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,jenkins&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=kafka,jenkins&theme=dark&perline=2" />
 </div>
 
 <br>
 
 ### Collaboration / Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,notion&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=github,notion&theme=dark&perline=2" />
 </div>
 
 ---
