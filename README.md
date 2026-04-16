@@ -58,7 +58,7 @@
 ## 📚 Currently Studying
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,linux,swift&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,linux,aws,kafka&theme=dark&perline=4" />
 </div>
 
 ---
