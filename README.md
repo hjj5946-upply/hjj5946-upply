@@ -10,11 +10,27 @@
 
 ## ✨ About Me
 
-- Spring, FastAPI 기반 API 서버 설계 및 운영 경험을 보유한 8년차 개발자입니다.
-- Redis, Kafka 등을 활용한 캐싱 및 비동기 처리로 성능 개선을 경험했습니다.
-- 서비스 초기 구축부터 운영, 트래픽 대응까지 전 과정에 참여했습니다.
-- 이커머스 도메인에서의 실무 경험이 있습니다.
-- LLM 및 협업 도구를 활용해 개발 생산성을 개선하는 방식에 관심이 있습니다.
+9 years of coding. Still shipping. Still breaking things.
+
+Backend guy → AI-assisted developer
+
+Spring / FastAPI / Redis / Kafka / AWS
+
+요즘은 코드를 직접 치는 것보다
+AI에게 일을 잘 시키는 방법에 더 관심이 많습니다.
+
+Repository 읽히고
+코드 짜게 하고
+테스트 돌리고
+틀리면 다시 시키고.
+
+Basically,
+
+I build things.
+AI helps me build them faster.
+
+Still learning.
+Still shipping. 🚀
 
 ---
 
