@@ -79,25 +79,6 @@ Still shipping. 🚀
 
 ---
 
-## 📈 GitHub Stats
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hjj5946-upply&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjj5946-upply&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-## 🧩 Activity
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hjj5946-upply&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
-
----
-
 ## 💬 Motto
 
 <div align="center">
