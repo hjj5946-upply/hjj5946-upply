@@ -10,11 +10,7 @@
 
 ## ✨ About Me
 
-9 years of coding. Still shipping. Still breaking things.
-
-Backend guy → AI-assisted developer
-
-Spring / FastAPI / Redis / Kafka / AWS
+주야장천
 
 요즘은 코드를 직접 치는 것보다
 AI에게 일을 잘 시키는 방법에 더 관심이 많습니다.
